@@ -21,7 +21,7 @@ The current recommendations for emoji in the `emoji` folder are:
 - Gif's are 50 frames or less (new requirement of Slack). If you have to make your gif smaller than 128px to meet the file size, do not go smaller than 40px x 40px.
 - naming should be unique (regardless of file type) - do not upload a hello.gif if hello.png already exists; pick a different name
 
-Since slack does change its requirements from time to time, if you notice any emoji in the `emoji` folder you want to use that now fail to upload, create an issue in this repo for it to be fixed.
+Since Slack does change its requirements from time to time, if you notice any emoji in the `emoji` folder you want to use that now fail to upload, create an issue in this repo for it to be fixed.
 
 ### Downloading images out of Slack
 
